@@ -1,1 +1,4 @@
 /node_modules/
+/.idea/modules.xml
+/.idea/react-complete-guide.iml
+/.idea/vcs.xml
